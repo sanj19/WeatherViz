@@ -1,0 +1,66 @@
+
+
+body{
+	background-color: #E7E7E7;
+}
+
+.navbar{
+	max-height: 50px;
+	background-color: white;
+	font-size: 15px;
+}
+
+.navbar-brand{
+	color: white;
+	margin-left: 100px;
+	font-weight: bold;
+	background-color: #2ac082;
+}
+
+.imagenav-photo{
+	width: 49%;
+	height: 49%;
+}
+
+.imagenav-photo-comp{
+	width: 95%;
+	height: 95%;
+}
+
+.index-graph{
+	width:75%;
+	height:75%;
+}
+
+.vis-graph{
+	width:100%;
+	height:100%;
+}
+
+.main-content{
+	margin-top: 30px;
+	margin-bottom: 60px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 10px 10px 5px;
+	color: black;
+	background-color: white;
+}
+
+.image-content{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	padding: 10px 30px 40px;
+	color: black;
+	background-color: white;
+}
+
+.heading{
+	padding-top: 15px;
+	padding-left: 4px;
+	color: #2ac082;
+}
+
+.nav-link{
+	color: black;
+}
